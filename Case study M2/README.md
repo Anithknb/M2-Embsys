@@ -26,4 +26,37 @@ We all know about alexa which works on voice commands basis.
 Imagine if a microwave works under voice commands.
 Example: The user kept the food inside the microwave oven before he leave home to office. When he come home again he can just give a voice command to the microwave telling " cook my food for 1min" so that the microwave start it's work with a voice command.
 This can be implemented if we place a sound sensor to the microwave oven.
-[CASE STUDY M2.pdf](https://github.com/Anithknb/M2-Embsys/files/8103862/CASE.STUDY.M2.pdf)
+
+Requirements
+High level requirement
+Low level requirement
+
+
+ID LLR1 LLR2 LLR3 LLR4 LLR5 LLR6
+
+
+DISCRIPTION
+Power User Inputs
+Sound sensor Temperature sensor Humidity sensor
+5W and 1H
+WHAT : M2_embsys casestudy WHERE : Used in Microwave WHEN : while cooking food
+HOW: with the help of sensors, microcontrollers and manual input board
+ID HLR1 HLR2 HLR3 HLR4 HLR5
+DISCRIPTION
+Sensors Control board/buttons
+Power source Voice controller Microcontroller
+
+SWOT- Strengths, and Weakness, Opportunities Threats
+Strengths
+•     User Friendly
+•     Very convenient to an user to operate a microwave
+•     Modular Approach
+•     Works in different forms like manually and automatically
+Weakness
+•     Cost of this will be higher
+
+
+Opportunities
+•     It can be implemented to make cooking easy.
+Threats
+•     Cost of designing this convertible microwave oven will be very

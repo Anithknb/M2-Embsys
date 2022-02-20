@@ -26,3 +26,4 @@ We all know about alexa which works on voice commands basis.
 Imagine if a microwave works under voice commands.
 Example: The user kept the food inside the microwave oven before he leave home to office. When he come home again he can just give a voice command to the microwave telling " cook my food for 1min" so that the microwave start it's work with a voice command.
 This can be implemented if we place a sound sensor to the microwave oven.
+[CASE STUDY M2.pdf](https://github.com/Anithknb/M2-Embsys/files/8103862/CASE.STUDY.M2.pdf)

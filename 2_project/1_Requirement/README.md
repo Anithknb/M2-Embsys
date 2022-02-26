@@ -1,3 +1,20 @@
+#Automatic Traffic Signal Control For Emergency vehicals
+
+## Table Of Content
+  1. [Introduction](#introduction)
+
+  2. [Features](#features)
+
+  3. [SWOT](#swot)
+
+  4. [4W and 1H](#4wand1h)
+
+  5. [Detail requirements](#Detail requirements)
+
+  6. [Components](#components)
+
+
+
 # REQUIREMENT
 
 
@@ -56,3 +73,16 @@ to make sure that ambulance or any other emergency vehicals need not wait until 
 | HLR3_LLR1   | Siren |
 | HLR4_LLR1   | Sensors in traffic poles|
 | HLR5_LLR1   | SimulIDE |
+
+## components
+
+  #### Sensors 
+  * A sensor is a device that detects and responds to some type of input from the physical environment.
+  * The specific input could be light, heat, motion, moisture, pressure, or any one of a great number of other environmental phenomena
+  * The output is generally a signal that is converted to human-readable display at the sensor location or transmitted electronically over a network for reading or further processing. 
+
+  #### Actuators
+  * An actuator is a component of a machine that is responsible for moving and controlling a mechanism or system, for example by opening a valve.
+  * In simple terms, it is a "mover".
+  * An actuator requires a control signal and a source of energy.
+

@@ -6,7 +6,7 @@ int red3 = 2;
 int green3 = 4;
 int red4 = 12;
 int green4 = 7;
-int buzz = 6; // orange color wire passes from pin number 6 to bread board. One end of buzzer is connected to the same line as wire and the other end to the ground.
+int buzz = 6; 
 
 const int ledpin = 13;
 const int soundpin = A4;

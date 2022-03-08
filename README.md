@@ -3,4 +3,4 @@
 ## project
 
 
-https://api.codiga.io/project/31714/score/svg
+//api.codiga.io/project/31714/score/svg
